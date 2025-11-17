@@ -3,6 +3,7 @@
 A Power BI analytical project exploring vehicle registrations in Ukraine between 2022 and 2024.
 This report provides insights into registration activity, fuel type distribution, regional trends, brand popularity, fleet electrification, and average vehicle age.
 
+![Ukraine Vehicle Registration Analysis report-screenshot](./main-report.png)
 ***
 ## 🔍 Project Overview
 

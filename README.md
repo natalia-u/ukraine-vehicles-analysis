@@ -23,7 +23,7 @@ This helps policymakers, analysts, and transportation specialists understand how
 ## 📊 Power BI Report
 🔗 [Download PBIX ](https://drive.google.com/drive/folders/1WlcnQbTGTHujMpzeIFAdEV71zJAVRB7u?usp=sharing)
 
-📄 [A PDF export of the Power BI dashboard is included in this repository.](files/Ukraine_Vehicle_Analysis.pdf)
+📄 [A PDF export of the Power BI dashboard is included in this repository.](./UA Transport Insights.pdf)
 ***
 ## 🛠️ Tools & Technologies
 
